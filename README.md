@@ -1,5 +1,6 @@
 # Mi primera página con diseño de interfaz de usuario (Front End Design).
-- https://edeercm.github.io/SabordeBarrioTaqueria/
+
+https://edeercm.github.io/SabordeBarrioTaqueria/
 
 - En este repositorio, presento mi primer proyecto de diseño de interfaz de usuario, donde he aplicado mis conocimientos en desarrollo front-end para crear una página web atractiva y funcional. A través de este proyecto, he utilizado tecnologías como HTML y CSS para estructurar y estilizar la página, asegurando una experiencia de usuario fluida y agradable. Estoy emocionado de compartir mi trabajo y espero recibir comentarios y sugerencias para seguir mejorando mis habilidades en diseño de interfaces de usuario.
 - Es importante tener en cuenta que, por el momento, la página está diseñada exclusivamente para adaptarse a computadoras de escritorio y laptops, independientemente del tamaño de la pantalla. No se ha implementado un diseño responsivo que se ajuste automáticamente a dispositivos móviles u otras pantallas de menor tamaño. Sin embargo, tengo planes de agregar la funcionalidad de diseño responsivo en futuras actualizaciones, para garantizar una experiencia óptima en una variedad de dispositivos.
